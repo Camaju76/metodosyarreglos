@@ -1,0 +1,80 @@
+
+body {
+    font-family: sans-serif;
+    margin: 40px;
+  }
+  
+  main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  hr {
+    border-color: #ccc;
+    margin-bottom: 20px;
+  }
+  
+  .d-flex {
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .resumen {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 15px;
+  }
+  
+  .resumen li {
+    margin-bottom: 5px;
+  }
+  
+  .resumen span {
+    font-weight: bold;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #ccc;
+  }
+  
+  
+
